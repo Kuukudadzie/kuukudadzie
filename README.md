@@ -39,7 +39,7 @@ A curiosity to understand how data changes over time and how intelligent systems
 Python | SQL | Power BI | Jupyter | Git | LaTeX
 
 **Areas of Expertise:**  
-Data Cleaning • EDA • Concept Drift • Stream Data Mining • Data Storytelling • Dashboard Design
+Data Cleaning • EDA • Concept Drift • Stream Data Mining • Data Storytelling • Dashboard Design • Risk Analyst
 
 **Soft Skills:**  
 Research Communication • Problem Solving • Curiosity • Teaching & Mentorship
