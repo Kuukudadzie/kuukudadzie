@@ -50,5 +50,5 @@ Research Communication • Problem Solving • Curiosity • Teaching & Mentorsh
 I'm open to collaborations, case studies, or simply learning together with others passionate about data.
 
 📫 Reach out via:  
-- [LinkedIn](https://www.linkedin.com/in/benjamin-mensah-dadzie)  
+- [LinkedIn](https://www.linkedin.com/in/benmendadzie/)  
 - 📧 kuukuudadzie@gmail.com
